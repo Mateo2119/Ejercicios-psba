@@ -6,19 +6,17 @@ fecha.
 
 @author: lenovo
 """
-
 dia = int(input('Dia de nacimiento: '))
 mes = int(input('Mes de nacimiento: '))
 año = int(input('Anio de nacimiento: '))
- 
+
 while año < 1583:
   print('fecha muy baja')
-  año = int(input('Anio de nacimiento: '))
+  año = int(input('Año de nacimiento: '))
 else:
   a = (14 - mes) // 12
   y = año - a
-  m = mes + 12 * a - 2
- 
+  m = mes + 12 * a - 2 
   d = (dia + año + (año//4) - (año//100) + (año//400) + ((31 * m)//12)) % 7
  
   if d == 0:
