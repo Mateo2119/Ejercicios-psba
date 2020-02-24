@@ -4,7 +4,7 @@
 5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y
 altura.
 área del triángulo = (base * altura)/2.
-https://github.com/Mateo2119/Ejercicios-psba/blob/master/5trianguloArea.py
+{Ver solucion}(https://github.com/Mateo2119/Ejercicios-psba/blob/master/5trianguloArea.py)
 
 15. Escribir un programa que lea dos números enteros A y B, y obtenga los valores de la
 división entera de A dividido B y el residuo de esta. 
