@@ -1,4 +1,5 @@
 # Ejercicios
+ANDRES MATEO NARIÑO RODRÍGUEZ.
 
 5. Escribir un programa que calcule el área de un triángulo, capturando los valores de base y
 altura.
