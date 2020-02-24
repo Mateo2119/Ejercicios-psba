@@ -6,6 +6,7 @@ altura.
 
 15. Escribir un programa que lea dos números enteros A y B, y obtenga los valores de la
 división entera de A dividido B y el residuo de esta. 
+https://github.com/Mateo2119/Ejercicios-psba/blob/master/15divisionResiudo.py
 
 16. Escribir un programa que detecte si un número introducido desde el teclado es positivo o
 negativo.
