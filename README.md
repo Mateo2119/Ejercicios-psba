@@ -65,6 +65,13 @@ sea de un solo dígito y muestre en pantalla:
 fibonacci. <br>
 [Ver solucion](https://github.com/Mateo2119/Ejercicios-psba/blob/master/80-rFibo.py)
 
+83. Crear un módulo que maneje funciones para operar en sistema binario, las operaciones que
+se deben implementar son suma, resta, multiplicación y división.
+
+81. Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta,
+multiplicación, división y potencia de enteros, escribir un programa que importe este
+módulo y use estas funciones para operar con números capturados desde el teclado.
+
 90. Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a
 cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio.<br>
 [Ver solucion](https://github.com/Mateo2119/Ejercicios-psba/blob/master/90-conteo.py)
