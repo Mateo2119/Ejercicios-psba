@@ -72,6 +72,7 @@ se deben implementar son suma, resta, multiplicación y división.
 81. Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta,
 multiplicación, división y potencia de enteros, escribir un programa que importe este
 módulo y use estas funciones para operar con números capturados desde el teclado.
+[Ver solucion](https://github.com/Mateo2119/Ejercicios-psba/tree/master/81-funciones)
 
 90. Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a
 cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio.<br>
