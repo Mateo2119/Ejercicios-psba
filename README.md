@@ -67,6 +67,7 @@ fibonacci. <br>
 
 83. Crear un módulo que maneje funciones para operar en sistema binario, las operaciones que
 se deben implementar son suma, resta, multiplicación y división.
+[Ver solucion](https://github.com/Mateo2119/Ejercicios-psba/tree/master/83%20operaciones%20binario)
 
 81. Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta,
 multiplicación, división y potencia de enteros, escribir un programa que importe este
